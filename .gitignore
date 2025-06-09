@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Output logs and data
+*.log
+*.csv
+
+# Ignore data files
+data/*.csv
+
+# Ignore output figures
+outputs/figures/*.png
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.Spotlight-V100
+.Trashes
